@@ -23,6 +23,6 @@ $ ./screenshot.sh
 ```
 
 [hacksaw]: https://github.com/neXromancers/hacksaw
-[leaves]: https://github.com/vivianhellyer/leaves
+[leaves]: https://github.com/leaves-host/leaves
 [shotgun]: https://github.com/neXromancers/shotgun
 [toastify]: https://github.com/hoodie/toastify
